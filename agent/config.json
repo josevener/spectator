@@ -1,0 +1,9 @@
+{
+  "secret_key": "sk_work-desktop_2schg2wgv",
+  "server_url": "ws://localhost:5500/ws/agent",
+  "capture_fps": 3,
+  "screen_quality": 70,
+  "auto_start": true,
+  "show_overlay": true,
+  "enable_diff": true
+}

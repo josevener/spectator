@@ -1,0 +1,522 @@
+2025-12-12 09:37:15,401 | INFO | Connecting → ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:37:15,420 | INFO | Websocket connected
+2025-12-12 09:37:15,422 | INFO | CONNECTED TO SERVER
+2025-12-12 09:42:29,108 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:42:29,124 | INFO | Websocket connected
+2025-12-12 09:42:29,183 | ERROR | error from callback <bound method Agent.on_open of <core.agent.Agent object at 0x0000024DB3B8A580>>: name 'psutil' is not defined
+2025-12-12 09:42:29,184 | ERROR | WS Error: name 'psutil' is not defined
+2025-12-12 09:43:20,660 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:43:20,668 | INFO | Websocket connected
+2025-12-12 09:43:20,668 | INFO | WebSocket connected
+2025-12-12 09:43:20,701 | ERROR | error from callback <bound method Agent.on_open of <core.agent.Agent object at 0x0000029B06A2A5E0>>: name 'psutil' is not defined
+2025-12-12 09:43:20,701 | ERROR | WS Error: name 'psutil' is not defined
+2025-12-12 09:43:51,770 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:43:51,780 | INFO | Websocket connected
+2025-12-12 09:43:51,780 | INFO | WebSocket connected
+2025-12-12 09:47:42,107 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:47:42,126 | INFO | Websocket connected
+2025-12-12 09:47:42,128 | INFO | WebSocket connected
+2025-12-12 09:50:00,398 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:50:00,436 | INFO | Websocket connected
+2025-12-12 09:50:00,438 | INFO | WebSocket connected
+2025-12-12 09:51:28,591 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:51:28,625 | INFO | Websocket connected
+2025-12-12 09:51:28,629 | INFO | WebSocket connected
+2025-12-12 09:54:45,036 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:54:45,063 | INFO | Websocket connected
+2025-12-12 09:54:45,065 | INFO | WebSocket connected
+2025-12-12 09:56:56,993 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 09:56:57,028 | INFO | Websocket connected
+2025-12-12 09:56:57,031 | INFO | WebSocket connected
+2025-12-12 10:03:01,969 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:03:01,976 | INFO | Websocket connected
+2025-12-12 10:03:01,978 | INFO | WebSocket connected
+2025-12-12 10:05:41,543 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:05:41,543 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:05:41,544 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:05:46,555 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:05:46,568 | INFO | Websocket connected
+2025-12-12 10:05:46,570 | INFO | WebSocket connected
+2025-12-12 10:09:04,641 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:09:04,658 | INFO | Websocket connected
+2025-12-12 10:09:04,660 | INFO | WebSocket connected
+2025-12-12 10:10:30,833 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:10:30,852 | INFO | Websocket connected
+2025-12-12 10:10:30,855 | INFO | WebSocket connected
+2025-12-12 10:20:01,358 | INFO | Connecting agent → ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:20:01,378 | INFO | Websocket connected
+2025-12-12 10:20:01,381 | INFO | AGENT CONNECTED — SENDING FRAMES
+2025-12-12 10:20:01,381 | ERROR | error from callback <bound method Agent.on_open of <core.agent.Agent object at 0x000002071051BF70>>: wrapped C/C++ object of type StaticText has been deleted
+2025-12-12 10:20:01,381 | ERROR | WebSocket error: wrapped C/C++ object of type StaticText has been deleted
+2025-12-12 10:20:40,305 | INFO | Connecting agent → ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:20:40,313 | INFO | Websocket connected
+2025-12-12 10:20:40,314 | INFO | AGENT CONNECTED — STARTING STREAM
+2025-12-12 10:24:47,937 | INFO | Connecting agent → ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:24:47,945 | INFO | Websocket connected
+2025-12-12 10:24:47,945 | INFO | AGENT CONNECTED — STARTING STREAM
+2025-12-12 10:25:00,130 | INFO | Connecting agent → ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:25:00,136 | INFO | Websocket connected
+2025-12-12 10:25:00,137 | INFO | AGENT CONNECTED — SENDING FRAMES
+2025-12-12 10:25:00,137 | ERROR | error from callback <bound method Agent.on_open of <core.agent.Agent object at 0x0000018742B8BF70>>: wrapped C/C++ object of type StaticText has been deleted
+2025-12-12 10:25:00,137 | ERROR | WebSocket error: wrapped C/C++ object of type StaticText has been deleted
+2025-12-12 10:25:05,489 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:25:05,510 | INFO | Websocket connected
+2025-12-12 10:25:05,511 | INFO | WebSocket connected
+2025-12-12 10:27:13,680 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:27:13,694 | INFO | Websocket connected
+2025-12-12 10:27:13,696 | INFO | WebSocket connected
+2025-12-12 10:28:02,186 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:28:02,196 | INFO | Websocket connected
+2025-12-12 10:28:02,199 | INFO | WebSocket connected
+2025-12-12 10:35:35,576 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:35:35,584 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:35:35,584 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:35:40,797 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:35:40,798 | INFO | Websocket connected
+2025-12-12 10:35:40,798 | INFO | WebSocket connected
+2025-12-12 10:36:34,545 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:36:34,546 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:36:34,547 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:36:39,579 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:36:43,645 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:36:43,646 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:36:43,646 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:36:48,661 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:36:52,744 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:36:52,745 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:36:52,745 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:36:57,760 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:36:59,316 | INFO | Websocket connected
+2025-12-12 10:36:59,318 | INFO | WebSocket connected
+2025-12-12 10:37:06,725 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:37:06,725 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:37:06,726 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:37:11,730 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:37:11,730 | INFO | Websocket connected
+2025-12-12 10:37:11,730 | INFO | WebSocket connected
+2025-12-12 10:37:41,898 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:37:41,898 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:37:41,904 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:37:46,909 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:37:46,916 | INFO | Websocket connected
+2025-12-12 10:37:46,917 | INFO | WebSocket connected
+2025-12-12 10:37:47,021 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:37:47,023 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:37:47,023 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:37:52,038 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:37:56,079 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:37:56,079 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:37:56,080 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:38:01,090 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:38:05,156 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:38:05,158 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:38:05,158 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:38:10,163 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:38:14,229 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:38:14,229 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:38:14,229 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:38:19,248 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:38:23,322 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:38:23,322 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:38:23,322 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:38:28,339 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:38:32,431 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:38:32,432 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:38:32,432 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:38:37,581 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:38:41,655 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:38:41,656 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:38:41,656 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:38:46,705 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:38:46,707 | INFO | Websocket connected
+2025-12-12 10:38:46,707 | INFO | WebSocket connected
+2025-12-12 10:39:07,876 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:39:07,876 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:39:07,876 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:12,903 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:39:12,917 | INFO | Websocket connected
+2025-12-12 10:39:12,917 | INFO | WebSocket connected
+2025-12-12 10:39:13,064 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:39:13,064 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:39:13,064 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:18,070 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:39:22,136 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:39:22,138 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:39:22,139 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:27,155 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:39:31,218 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:39:31,218 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:39:31,218 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:36,235 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:39:38,263 | INFO | Websocket connected
+2025-12-12 10:39:38,265 | INFO | WebSocket connected
+2025-12-12 10:39:38,426 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:39:38,429 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:39:38,429 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:43,436 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:39:47,493 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:39:47,493 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:39:47,493 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:52,502 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:39:53,531 | INFO | Websocket connected
+2025-12-12 10:39:53,531 | INFO | WebSocket connected
+2025-12-12 10:39:53,669 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:39:53,677 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:39:53,677 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:39:58,696 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:00,229 | INFO | Websocket connected
+2025-12-12 10:40:00,229 | INFO | WebSocket connected
+2025-12-12 10:40:00,406 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:40:00,406 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:40:00,406 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:05,415 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:09,487 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:40:09,487 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:40:09,487 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:14,496 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:18,602 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:40:18,602 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:40:18,603 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:23,615 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:27,698 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:40:27,699 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:40:27,702 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:32,716 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:36,774 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:40:36,776 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:40:36,776 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:41,784 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:45,882 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:40:45,883 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:40:45,883 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:50,887 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:40:54,946 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:40:54,947 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:40:54,948 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:40:59,965 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:41:04,016 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:41:04,016 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:41:04,017 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:41:09,024 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:41:13,099 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:41:13,100 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:41:13,101 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:41:18,114 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:41:22,180 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:41:22,181 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:41:22,183 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:41:27,199 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:41:31,247 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:41:31,248 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:41:31,248 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:41:36,260 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:41:38,286 | INFO | Websocket connected
+2025-12-12 10:41:38,288 | INFO | WebSocket connected
+2025-12-12 10:43:36,095 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:43:36,095 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:43:36,100 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:43:41,118 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:43:41,126 | INFO | Websocket connected
+2025-12-12 10:43:41,129 | INFO | WebSocket connected
+2025-12-12 10:43:41,160 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:43:41,161 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:43:41,162 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:43:46,187 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:43:50,258 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:43:50,258 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:43:50,259 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:43:55,415 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:43:59,458 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:43:59,458 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:43:59,459 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:44:04,524 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:44:08,573 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:44:08,573 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:44:08,573 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:44:13,587 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:44:17,607 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:44:17,607 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:44:17,607 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:44:22,690 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:44:26,757 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:44:26,757 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:44:26,758 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:44:31,770 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:44:31,770 | INFO | Websocket connected
+2025-12-12 10:44:31,786 | INFO | WebSocket connected
+2025-12-12 10:44:55,711 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:44:55,711 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:44:55,711 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:45:00,727 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:45:00,742 | INFO | Websocket connected
+2025-12-12 10:45:00,742 | INFO | WebSocket connected
+2025-12-12 10:45:58,436 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:45:58,436 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:45:58,436 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:03,455 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:03,469 | INFO | Websocket connected
+2025-12-12 10:46:03,470 | INFO | WebSocket connected
+2025-12-12 10:46:09,870 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:46:09,870 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:46:09,870 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:14,884 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:14,889 | INFO | Websocket connected
+2025-12-12 10:46:14,891 | INFO | WebSocket connected
+2025-12-12 10:46:14,929 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:46:14,930 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:46:14,930 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:19,947 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:24,028 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:46:24,029 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:46:24,029 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:29,035 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:33,100 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:46:33,100 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:46:33,100 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:38,117 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:38,133 | INFO | Websocket connected
+2025-12-12 10:46:38,134 | INFO | WebSocket connected
+2025-12-12 10:46:38,282 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:46:38,285 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:46:38,286 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:43,400 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:47,451 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:46:47,452 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:46:47,452 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:46:52,516 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:46:56,567 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:46:56,567 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:46:56,567 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:47:01,576 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:47:05,634 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:47:05,634 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:47:05,634 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:47:10,663 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:47:14,728 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:47:14,728 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:47:14,731 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:47:19,750 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:47:21,808 | INFO | Websocket connected
+2025-12-12 10:47:21,810 | INFO | WebSocket connected
+2025-12-12 10:49:30,267 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:49:30,267 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:49:30,269 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:49:35,275 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:49:35,283 | INFO | Websocket connected
+2025-12-12 10:49:35,283 | INFO | WebSocket connected
+2025-12-12 10:49:53,019 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:49:53,020 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:49:53,020 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:49:58,040 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:49:58,040 | INFO | Websocket connected
+2025-12-12 10:49:58,040 | INFO | WebSocket connected
+2025-12-12 10:51:10,463 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:51:10,464 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:51:10,464 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:51:15,474 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:51:16,005 | INFO | Websocket connected
+2025-12-12 10:51:16,007 | INFO | WebSocket connected
+2025-12-12 10:51:16,205 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:51:16,208 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:51:16,208 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:51:21,220 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:51:25,314 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:51:25,314 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:51:25,314 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:51:30,319 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:51:30,326 | INFO | Websocket connected
+2025-12-12 10:51:30,328 | INFO | WebSocket connected
+2025-12-12 10:53:34,944 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:53:34,944 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:53:34,944 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:53:39,963 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:53:39,963 | INFO | Websocket connected
+2025-12-12 10:53:39,963 | INFO | WebSocket connected
+2025-12-12 10:56:02,960 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:56:02,961 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:56:02,961 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:56:07,976 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:56:07,990 | INFO | Websocket connected
+2025-12-12 10:56:07,991 | INFO | WebSocket connected
+2025-12-12 10:56:08,116 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:56:08,117 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:56:08,117 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:56:13,257 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:56:17,329 | INFO | Websocket connected
+2025-12-12 10:56:17,331 | INFO | WebSocket connected
+2025-12-12 10:56:17,503 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:56:17,504 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:56:17,505 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:56:22,519 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:56:26,599 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 10:56:26,600 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 10:56:26,601 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:56:31,606 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:56:33,132 | INFO | Websocket connected
+2025-12-12 10:56:33,133 | INFO | WebSocket connected
+2025-12-12 10:56:33,899 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:56:33,899 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:56:33,900 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:56:38,911 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:56:38,916 | INFO | Websocket connected
+2025-12-12 10:56:38,920 | INFO | WebSocket connected
+2025-12-12 10:56:58,601 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 10:56:58,601 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 10:56:58,601 | WARNING | Disconnected → reconnecting...
+2025-12-12 10:57:03,611 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:57:03,621 | INFO | Websocket connected
+2025-12-12 10:57:03,627 | INFO | WebSocket connected
+2025-12-12 10:59:12,031 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 10:59:12,041 | INFO | Websocket connected
+2025-12-12 10:59:12,042 | INFO | WebSocket connected
+2025-12-12 11:00:40,354 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:00:40,355 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:00:40,355 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:00:45,372 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:00:45,378 | INFO | Websocket connected
+2025-12-12 11:00:45,381 | INFO | WebSocket connected
+2025-12-12 11:01:36,809 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:01:36,810 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:01:36,810 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:01:42,207 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:01:42,209 | INFO | Websocket connected
+2025-12-12 11:01:42,223 | INFO | WebSocket connected
+2025-12-12 11:01:42,254 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:01:42,254 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:01:42,256 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:01:47,265 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:01:51,329 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:01:51,330 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:01:51,331 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:01:56,342 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:01:56,344 | INFO | Websocket connected
+2025-12-12 11:01:56,358 | INFO | WebSocket connected
+2025-12-12 11:02:30,652 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:02:30,652 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:02:30,652 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:02:35,673 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:02:35,677 | INFO | Websocket connected
+2025-12-12 11:02:35,679 | INFO | WebSocket connected
+2025-12-12 11:03:37,849 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:03:37,851 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:03:37,851 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:03:42,918 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:03:42,918 | INFO | Websocket connected
+2025-12-12 11:03:42,918 | INFO | WebSocket connected
+2025-12-12 11:04:16,304 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:04:16,304 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:04:16,305 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:04:21,320 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:04:21,322 | INFO | Websocket connected
+2025-12-12 11:04:21,322 | INFO | WebSocket connected
+2025-12-12 11:05:19,690 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:05:19,690 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:05:19,690 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:05:24,714 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:05:24,719 | INFO | Websocket connected
+2025-12-12 11:05:24,721 | INFO | WebSocket connected
+2025-12-12 11:06:51,080 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:06:51,080 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:06:51,081 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:06:56,088 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:06:56,101 | INFO | Websocket connected
+2025-12-12 11:06:56,103 | INFO | WebSocket connected
+2025-12-12 11:08:02,419 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:08:02,419 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:08:02,419 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:08:07,558 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:08:07,558 | INFO | Websocket connected
+2025-12-12 11:08:07,558 | INFO | WebSocket connected
+2025-12-12 11:08:53,085 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:08:53,085 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:08:53,087 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:08:58,102 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:08:58,117 | INFO | Websocket connected
+2025-12-12 11:08:58,119 | INFO | WebSocket connected
+2025-12-12 11:09:19,618 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:09:19,618 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:09:19,622 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:09:24,630 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:09:24,631 | INFO | Websocket connected
+2025-12-12 11:09:24,631 | INFO | WebSocket connected
+2025-12-12 11:10:05,655 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:10:05,655 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:10:05,656 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:10:10,669 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:10:14,750 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:10:14,750 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:10:14,750 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:10:19,755 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:10:19,770 | INFO | Websocket connected
+2025-12-12 11:10:19,772 | INFO | WebSocket connected
+2025-12-12 11:10:23,642 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:10:23,642 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:10:23,642 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:10:28,660 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:10:28,671 | INFO | Websocket connected
+2025-12-12 11:10:28,671 | INFO | WebSocket connected
+2025-12-12 11:12:37,174 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:12:37,174 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:12:37,174 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:12:42,187 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:12:42,201 | INFO | Websocket connected
+2025-12-12 11:12:42,202 | INFO | WebSocket connected
+2025-12-12 11:12:50,865 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:12:50,866 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:12:50,867 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:12:56,008 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:12:56,016 | INFO | Websocket connected
+2025-12-12 11:12:56,016 | INFO | WebSocket connected
+2025-12-12 11:13:01,787 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:13:01,787 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:13:01,787 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:13:06,800 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:13:06,813 | INFO | Websocket connected
+2025-12-12 11:13:06,814 | INFO | WebSocket connected
+2025-12-12 11:13:14,758 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:13:14,758 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:13:14,758 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:13:19,776 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:13:19,789 | INFO | Websocket connected
+2025-12-12 11:13:19,791 | INFO | WebSocket connected
+2025-12-12 11:13:45,113 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:13:45,115 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:13:45,116 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:13:50,292 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:13:54,402 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:13:54,403 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:13:54,403 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:13:59,425 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:14:03,493 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:14:03,493 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:14:03,494 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:14:08,507 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:14:12,575 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:14:12,576 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:14:12,577 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:14:17,604 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:14:21,715 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:14:21,719 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:14:21,720 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:14:26,732 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:14:30,791 | ERROR | WS Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-12-12 11:14:30,791 | ERROR | [WinError 10061] No connection could be made because the target machine actively refused it - goodbye
+2025-12-12 11:14:30,791 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:14:35,807 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:14:35,812 | INFO | Websocket connected
+2025-12-12 11:14:35,812 | INFO | WebSocket connected
+2025-12-12 11:14:46,749 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:14:46,749 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:14:46,749 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:14:51,771 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:14:51,787 | INFO | Websocket connected
+2025-12-12 11:14:51,789 | INFO | WebSocket connected
+2025-12-12 11:14:58,539 | ERROR | WS Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-12-12 11:14:58,541 | ERROR | [WinError 10054] An existing connection was forcibly closed by the remote host - goodbye
+2025-12-12 11:14:58,541 | WARNING | Disconnected → reconnecting...
+2025-12-12 11:15:03,691 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:15:03,691 | INFO | Websocket connected
+2025-12-12 11:15:03,691 | INFO | WebSocket connected
+2025-12-12 11:35:33,566 | INFO | Connecting to ws://localhost:5500/ws/agent?secret_key=sk_work-desktop_2schg2wgv
+2025-12-12 11:35:33,584 | INFO | Websocket connected
+2025-12-12 11:35:33,586 | INFO | WebSocket connected
